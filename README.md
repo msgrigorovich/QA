@@ -67,3 +67,17 @@ href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8
 <img width="375" height="190" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/NotionDoc.jpg?raw=true">
 <img width="375" height="190" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/YoutubePlaylist.jpg?raw=true">
 </p>
+
+<p
+    align = "center">
+    I hope this material was informative and interesting. I was very happy to share my skills with you!
+</p>
+<p
+    align = "center">
+    <b>Best regards, Diana Grigorovich!</b>
+</p>
+<h1
+    align = "center"
+    style = "color:FireBrick">
+    Thanks for your attention!
+</h1>
