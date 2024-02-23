@@ -4,6 +4,17 @@
     QA Management
 </h1>
 
+<p align = "center">
+<a
+href = "https://msgrigorovich.notion.site/Examples-QA-Documentation-0a0364079ea8475f9f5e0abfe7ffb5a7?pvs=4">
+<img width="30" height="30" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/NotionIcon.png?raw=true">
+</a>
+<a
+href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8">
+<img width="30" height="30" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/YoutubeIcon.png?raw=true">
+</a>
+</p>
+
 Hi, everyone! One of my greatest passions is management and project documentation.When I first started working at QA, I always had to either make up documentation on the fly, or always keep it in my head. This, of course, develops the employee’s memory and adaptability, but in difficult and stressful situations it only played a negative role.
 Over time, I wrote a bunch of different documentation like the following:
 * Check-Lists;
@@ -43,11 +54,22 @@ I would also like to inform you that a demonstration of these documents can be f
 
 <p align = "center">
 <a
-href = "">
-<img width="20" height="20" src="">
+href = "https://msgrigorovich.notion.site/Examples-QA-Documentation-0a0364079ea8475f9f5e0abfe7ffb5a7?pvs=4">
+<img width="20" height="20" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/NotionIcon.png?raw=true">
 </a>
 <a
 href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8">
 <img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/YoutubeIcon.png?raw=true">
+</a>
+</p>
+
+<p align = "center">
+<a
+href = "">
+<img width="375" height="270" src="">
+</a>
+<a
+href = "">
+<img width="375" height="270" src="">
 </a>
 </p>
