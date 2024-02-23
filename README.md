@@ -26,7 +26,7 @@ And now I can share with you two check-lists, each of which is performed in a di
 * Check-List By Notion; 
 * Check-List By Google Sheets. 
 
-<p>
+<p align = "center">
 <a
 href = "https://msgrigorovich.notion.site/By-Notion-404a26c581ad4ec8aab10e5b8e7e6399?pvs=4">
 <img width="375" height="270" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/CheckListByNotion.jpg?raw=true">
