@@ -64,12 +64,6 @@ href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8
 </p>
 
 <p align = "center">
-<a
-href = "">
-<img width="375" height="270" src="">
-</a>
-<a
-href = "">
-<img width="375" height="270" src="">
-</a>
+<img width="375" height="270" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/NotionDoc.jpg?raw=true">
+<img width="375" height="270" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/YoutubePlaylist.jpg?raw=true">
 </p>
