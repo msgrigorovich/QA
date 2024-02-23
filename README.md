@@ -23,8 +23,8 @@ But I was still worried that all that documentation was in different places and,
 
 And now I can share with you two check-lists, each of which is performed in a different environment and has independent advantages (_but also some disadvantages, of course_).
 
-* Check-List By Notion; 
-* Check-List By Google Sheets. 
+* [Check-List By Notion](https://msgrigorovich.notion.site/By-Notion-404a26c581ad4ec8aab10e5b8e7e6399?pvs=4); 
+* [Check-List By Google Sheets](https://docs.google.com/spreadsheets/d/1twi5y0b1nJ8GebSvn0_-9T8_YvOP_WkV/edit#gid=1007228740).
 
 <p align = "center">
 <a
@@ -34,5 +34,20 @@ href = "https://msgrigorovich.notion.site/By-Notion-404a26c581ad4ec8aab10e5b8e7e
 <a
 href = "https://docs.google.com/spreadsheets/d/1twi5y0b1nJ8GebSvn0_-9T8_YvOP_WkV/edit#gid=1007228740">
 <img width="375" height="270" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/CheckListByGoogle.jpg?raw=true">
+</a>
+</p>
+
+><u><b>But I have to inform you that access to these documents is limited to commenting rights!</b></u>
+
+I would also like to inform you that a demonstration of these documents can be found at the Notion and Youtube links:
+
+<p align = "center">
+<a
+href = "">
+<img width="20" height="20" src="">
+</a>
+<a
+href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8">
+<img width="20" height="20" src="https://github.com/msgrigorovich/msgrigorovich/blob/main/README_PICTURES/YoutubeIcon.png?raw=true">
 </a>
 </p>
