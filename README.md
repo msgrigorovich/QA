@@ -29,10 +29,10 @@ And now I can share with you two check-lists, each of which is performed in a di
 <p>
 <a
 href = "https://msgrigorovich.notion.site/By-Notion-404a26c581ad4ec8aab10e5b8e7e6399?pvs=4">
-<img width="250" height="180" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/CheckListByNotion.jpg?raw=true">
+<img width="375" height="270" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/CheckListByNotion.jpg?raw=true">
 </a>
 <a
 href = "https://docs.google.com/spreadsheets/d/1twi5y0b1nJ8GebSvn0_-9T8_YvOP_WkV/edit#gid=1007228740">
-<img width="250" height="180" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/CheckListByGoogle.jpg?raw=true">
+<img width="375" height="270" src="https://github.com/msgrigorovich/QA/blob/main/README_PICTURES/CheckListByGoogle.jpg?raw=true">
 </a>
 </p>
