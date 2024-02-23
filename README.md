@@ -15,7 +15,7 @@ href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8
 </a>
 </p>
 
-Hi, everyone! One of my greatest passions is management and project documentation.When I first started working at QA, I always had to either make up documentation on the fly, or always keep it in my head. This, of course, develops the employee’s memory and adaptability, but in difficult and stressful situations it only played a negative role.
+Hi, everyone! One of my greatest passions is management and project documentation. When I first started working at QA, I always had to either make up documentation on the fly, or always keep it in my head. This, of course, develops the employee’s memory and adaptability, but in difficult and stressful situations it only played a negative role.
 Over time, I wrote a bunch of different documentation like the following:
 * Check-Lists;
 * Test-Cases; 
@@ -32,7 +32,7 @@ But I was still worried that all that documentation was in different places and,
 * Minimum links; 
 * Automation updates. 
 
-And now I can share with you two check-lists, each of which is performed in a different environment and has independent advantages (_but also some disadvantages, of course_).
+And now I can share with you two check-lists, each of which is performed in a different environment and has independent advantages (_but also some disadvantages too, of course_).
 
 * [Check-List By Notion](https://msgrigorovich.notion.site/By-Notion-404a26c581ad4ec8aab10e5b8e7e6399?pvs=4); 
 * [Check-List By Google Sheets](https://docs.google.com/spreadsheets/d/1twi5y0b1nJ8GebSvn0_-9T8_YvOP_WkV/edit#gid=1007228740).
