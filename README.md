@@ -15,7 +15,7 @@ href = "https://www.youtube.com/playlist?list=PLx-SIa_GsuSM37wGE4W73P1BdUEONdCP8
 </a>
 </p>
 
-Hi, everyone! One of my greatest passions is management and project documentation. When I first started working at QA, I always had to either make up documentation on the fly, or always keep it in my head. This, of course, develops the employee’s memory and adaptability, but in difficult and stressful situations it only played a negative role.
+Hi everyone! One of my greatest passions is management and project documentation. When I first started working at QA, I always had to either make up documentation on the fly, or always keep it in my head. This, of course, develops the employee’s memory and adaptability, but in difficult and stressful situations it only played a negative role.
 Over time, I wrote a bunch of different documentation like the following:
 * Check-Lists;
 * Test-Cases; 
